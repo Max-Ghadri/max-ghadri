@@ -7,8 +7,10 @@ I'm on the verge of completing my Master's in Mechanical Engineering, and starti
 [![Github](https://img.shields.io/github/followers/MohammadGhadri?label=Follow&style=social)](https://github.com/MohammadGhadri)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1da1f2?labelColor=1da1f2&logo=twitter&logoColor=white&link=https://twitter.com/M_Ghadri)](https://twitter.com/M_Ghadri)    
 
-### My Brief CV
 ---
+
+### My Brief CV
+
 - **Industry Experience**:   
 Summer 2023 | Mechanical Engineer Intern at [**Airbus**](https://www.airbus.com/en)   
 Summer 2020 | Mechanical Engineer Intern at Pishgam Daghigh Sazan (PDS)   
@@ -27,7 +29,7 @@ I did **64** projects for 31 courses using 9 software and 5 coding languages. Mo
 Please see my related [**recommendations**](https://www.linkedin.com/in/m-ghadri/details/recommendations/?detailScreenTabIndex=0) on Linkedin.   
 
 ### ⚙️ Tech Stack
----
+
 ![Bootstrap](https://img.shields.io/badge/-Python-05122A?style=flat-square&logo=Python&color=353535)
 ![Bootstrap](https://img.shields.io/badge/-Scikit%20Learn-05122A?style=flat-square&logo=Scikit-Learn&color=353535) 
 ![Bootstrap](https://img.shields.io/badge/-Pandas-05122A?style=flat-square&logo=Pandas&color=353535) 
