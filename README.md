@@ -1,7 +1,7 @@
 ### About me
 I'm on the verge of completing my Master's in Mechanical Engineering, and starting in July 2023, I've been enthusiastically sharing my projects and exercises with individuals eager to delve into Mechanical Engineering and Data Science.
 
-[![Website Badge](https://img.shields.io/badge/-Website-c14438?style=flat&logo=Google-Chrome&logoColor=white&link=https://pytopia.ai)](https://mohammad-ghadri.com/)
+[![Website Badge](https://img.shields.io/badge/-Website-c14438?style=flat&logo=Google-Chrome&logoColor=white&link=https://mohammad-ghadri.com)](https://mohammad-ghadri.com/)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/m-ghadri/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:mohammadghadri18@gmail.co)
 [![Github](https://img.shields.io/github/followers/MohammadGhadri?label=Follow&style=social)](https://github.com/MohammadGhadri)
