@@ -19,19 +19,5 @@ Please see my related [**recommendations**](https://www.linkedin.com/in/m-ghadri
 ### Links
 ---
 
-[![linkedin40](https://github.com/MohammadGhadri/MohammadGhadri/assets/70007673/de453fbd-8701-45c6-8dd3-5027352153b6)](https://www.linkedin.com/in/m-ghadri/)
 
-
-
-
-<!-- 
-[![Personal website](https://mohammad-ghadri.com/wp-content/uploads/2023/01/Fave-icon-mohammad-2.png)](https://mohammad-ghadri.com/)
-[![CV](https://mohammad-ghadri.com/wp-content/uploads/2022/12/CV.png)](https://mohammad-ghadri.com/wp-content/uploads/2023/01/2.CV_Ghadri_2023-01-16.pdf)
-[![Mail](https://mohammad-ghadri.com/wp-content/uploads/2022/12/Gmail_Logo.svg)](mailto:mohammadghadri18@gmail.com)
-
-[![LinkedIn](path_to_image)]([https://www.linkedin.com/in/your_username/](https://www.linkedin.com/in/m-ghadri/))
-
-[![Gitlab](https://mohammad-ghadri.com/wp-content/uploads/2022/12/logo-gitlab-svgrepo-com.svg)](https://gitlab.com/mohammadghadri)
-
-[![Twitter](path_to_image)](https://www.linkedin.com/in/your_username/) 
--->
+[![linkedin40](https://github.com/MohammadGhadri/MohammadGhadri/assets/70007673/f27c03ab-ac47-4cdf-8836-a9cfb6d03da5)](https://www.linkedin.com/in/m-ghadri/)
