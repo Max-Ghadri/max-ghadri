@@ -14,7 +14,9 @@ Machine Learning, Deep Learning, Time Series Analysis, Data Mining, Python, R, S
 • More details about my projects (Link)
 
 • Recommendations:
-Please see my related recommendations on Linkedin (Link).
+Please see my related [recommendations on Linkedin](https://www.linkedin.com/in/m-ghadri/details/recommendations/?detailScreenTabIndex=0)
+
+
 <!--
 **MohammadGhadri/MohammadGhadri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
