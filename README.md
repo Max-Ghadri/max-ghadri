@@ -11,7 +11,7 @@ Graduated with honor (BSc), ranked as 3 out of 79 Mechanical Engineering student
 • Data Science background:
 Machine Learning, Deep Learning, Time Series Analysis, Data Mining, Python, R, STAT, MATH
 
-• More details about my projects (Link)
+• More details about [my projects](https://github.com/MohammadGhadri?tab=repositories)
 
 • Recommendations:
 Please see my related [recommendations](https://www.linkedin.com/in/m-ghadri/details/recommendations/?detailScreenTabIndex=0) on Linkedin.
