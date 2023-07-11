@@ -16,18 +16,11 @@ Machine Learning, Deep Learning, Time Series Analysis, Data Mining, Python, R, S
 - **Recommendations**:   
 Please see my related [**recommendations**](https://www.linkedin.com/in/m-ghadri/details/recommendations/?detailScreenTabIndex=0) on Linkedin.   
 
-
-<!--
-**MohammadGhadri/MohammadGhadri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Links
+---
+[![Personal website](path_to_image)](https://www.linkedin.com/in/your_username/)
+[![CV](path_to_image)](https://www.linkedin.com/in/your_username/)
+[![Mail](path_to_image)](https://www.linkedin.com/in/your_username/)
+[![LinkedIn](path_to_image)](https://www.linkedin.com/in/your_username/)
+[![Gitlab](path_to_image)](https://www.linkedin.com/in/your_username/)
+[![Twitter](path_to_image)](https://www.linkedin.com/in/your_username/)
