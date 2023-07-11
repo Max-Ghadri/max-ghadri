@@ -14,7 +14,7 @@ Machine Learning, Deep Learning, Time Series Analysis, Data Mining, Python, R, S
 • More details about my projects (Link)
 
 • Recommendations:
-Please see my related [recommendations on Linkedin](https://www.linkedin.com/in/m-ghadri/details/recommendations/?detailScreenTabIndex=0)
+Please see my related [recommendations](https://www.linkedin.com/in/m-ghadri/details/recommendations/?detailScreenTabIndex=0) on Linkedin.
 
 
 <!--
