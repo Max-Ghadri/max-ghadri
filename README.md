@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 • Industry Experience:
-Summer 2023 | Mechanical Engineer Intern at Airbus
+Summer 2023 | Mechanical Engineer Intern at **Airbus**
 Summer 2020 | Mechanical Engineer Intern at Pishgam Daghigh Sazan (PDS)
 Summer 2019 | Mechanical Engineer Intern at Bidboland 1 – gas processing
 
