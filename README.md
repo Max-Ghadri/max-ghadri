@@ -17,6 +17,7 @@ Machine Learning, Deep Learning, Time Series Analysis, Data Mining, Python, R, S
 Please see my related [**recommendations**](https://www.linkedin.com/in/m-ghadri/details/recommendations/?detailScreenTabIndex=0) on Linkedin.   
 
 ### Coding
+---
 - Python, C++, R, MATLAB, FORTRAN, Java
 
 ### Links
