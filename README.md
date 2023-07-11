@@ -12,7 +12,7 @@ Graduated with honor (BSc), ranked as **3 out of 79** Mechanical Engineering stu
 Machine Learning, Deep Learning, Time Series Analysis, Data Mining, Python, R, STAT, MATH   
  
 - **Projects**:  
-I did **59** projects for 30 courses using 9 software and 5 coding languages. More details about [**my projects**](https://mohammad-ghadri.com/#Mechanical_Engineering_Projects).   
+I did **64** projects for 31 courses using 9 software and 5 coding languages. More details about [**my projects**](https://mohammad-ghadri.com/#Mechanical_Engineering_Projects).   
 
 - **Recommendations**:   
 Please see my related [**recommendations**](https://www.linkedin.com/in/m-ghadri/details/recommendations/?detailScreenTabIndex=0) on Linkedin.   
