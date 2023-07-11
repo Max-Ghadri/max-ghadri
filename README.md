@@ -21,7 +21,7 @@ I did **64** projects for 31 courses using 9 software and 5 coding languages. Mo
 - **Recommendations**:   
 Please see my related [**recommendations**](https://www.linkedin.com/in/m-ghadri/details/recommendations/?detailScreenTabIndex=0) on Linkedin.   
 
-## ⚙️ Tech Stack 
+## Tech Stack 
 
 | Skills | Selected programming languages and Libraries |
 | :--- | :--- |
