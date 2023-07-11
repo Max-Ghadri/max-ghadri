@@ -2,10 +2,10 @@
 I'm on the verge of completing my Master's in Mechanical Engineering, and starting in July 2023, I've been enthusiastically sharing my projects and exercises with individuals eager to delve into Mechanical Engineering and Data Science.
 
 [![Website Badge](https://img.shields.io/badge/-Website-c14438?style=flat&logo=Google-Chrome&logoColor=white&link=https://pytopia.ai)](https://mohammad-ghadri.com/)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)]([https://www.linkedin.com/in/hejazizo/](https://www.linkedin.com/in/m-ghadri/))
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/m-ghadri/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:mohammadghadri18@gmail.co)
-[![Github](https://img.shields.io/github/followers/MohammadGhadri?label=Follow&style=social)]([https://github.com/hejazizo](https://github.com/MohammadGhadri))
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1da1f2?labelColor=1da1f2&logo=twitter&logoColor=white&link=https://twitter.com/hejazizo)](https://twitter.com/M_Ghadri)    
+[![Github](https://img.shields.io/github/followers/MohammadGhadri?label=Follow&style=social)](https://github.com/MohammadGhadri)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1da1f2?labelColor=1da1f2&logo=twitter&logoColor=white&link=https://twitter.com/M_Ghadri)](https://twitter.com/M_Ghadri)    
 
 ### My Brief CV
 ---
