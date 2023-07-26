@@ -7,7 +7,7 @@ I'm on the verge of completing my Master's in Mechanical Engineering, and starti
 - **Industry Experience**:   
 Summer 2023 | Mechanical Engineer Intern at [**Airbus**](https://www.airbus.com/en)   
 Summer 2020 | Mechanical Engineer Intern at Pishgam Daghigh Sazan (PDS)    
-Summer 2019 | Mechanical Engineer Intern at Bidboland 1 – gas processing   
+Summer 2019 | Mechanical Engineer Intern at Bidboland 1 – gas processing    
 
 - **Solid background in Mechanical Engineering**:   
 Graduated with honor (BSc), ranked as **3 out of 79** Mechanical Engineering students   
