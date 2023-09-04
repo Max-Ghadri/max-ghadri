@@ -10,10 +10,10 @@ Summer 2020 | Mechanical Engineer Intern at Pishgam Daghigh Sazan (PDS)
 Summer 2019 | Mechanical Engineer Intern at Bidboland 1 – gas processing    
 
 - **Solid background in Mechanical Engineering**:   
-Graduated with honor (BSc), ranked as **3 out of 79** Mechanical Engineering students   
+Graduated with honor (BSc), ranked as **3 out of 79** Mechanical Engineering students.   
 
 - **Data Science background**:   
-Machine Learning, Deep Learning, Time Series Analysis, Data Mining, Python, R, STAT, MATH   
+Machine Learning, Deep Learning, Time Series Analysis, Data Mining, Python, R, STAT, MATH.   
  
 - **Projects**:  
 I did **64** projects for 31 courses using 9 software and 5 coding languages. More details about [**my projects**](https://mohammad-ghadri.com/#Mechanical_Engineering_Projects).   
