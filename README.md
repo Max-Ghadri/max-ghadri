@@ -17,11 +17,6 @@ Hello 👋, I'm Mohammad Ghadri! I have hands-on experience with both Machine Le
 | Image Processing |  [![OpenCV](https://img.shields.io/badge/-OpenCV-05122A?style=flat-square&logo=OpenCV&color=353535)](https://opencv.org/)   [![Pillow](https://img.shields.io/badge/-Pillow-05122A?style=flat-square&logo=Python&color=353535)](https://python-pillow.org/)   [![scikit-image](https://img.shields.io/badge/-scikit--image-05122A?style=flat-square&logo=scikit-learn&color=353535)](https://scikit-image.org/)  |
 | Time Series Analysis &nbsp;|   [![TSA](https://img.shields.io/badge/-TSA-05122A?style=flat-square&logo=R&color=353535)](https://www.rdocumentation.org/packages/TSA/versions/1.3)   [![Statsmodels](https://img.shields.io/badge/-Statsmodels-05122A?style=flat-square&logo=Python&color=353535)](https://www.statsmodels.org/)   [![ARIMA](https://img.shields.io/badge/-ARIMA-05122A?style=flat-square&logo=Python&color=353535)](https://www.statsmodels.org/stable/generated/statsmodels.tsa.arima.model.ARIMA.html)    [![SARIMA](https://img.shields.io/badge/-SARIMA-05122A?style=flat-square&logo=Python&color=353535)](https://www.statsmodels.org/stable/generated/statsmodels.tsa.statespace.sarimax.SARIMAX.html)   [![LSTM](https://img.shields.io/badge/-LSTM-05122A?style=flat-square&logo=Python&color=353535)](https://www.tensorflow.org/api_docs/python/tf/keras/layers/LSTM)|
 
-<style>
-td, th {
-    vertical-align: middle;
-}
-</style>
 
 <table>
     <thead>
@@ -30,8 +25,16 @@ td, th {
             <th>Selected programming languages and Libraries</th>
         </tr>
     </thead>
-    <body>
-        < --| Time Series Analysis &nbsp;|   [![TSA](https://img.shields.io/badge/-TSA-05122A?style=flat-square&logo=R&color=353535)](https://www.rdocumentation.org/packages/TSA/versions/1.3)   [![Statsmodels](https://img.shields.io/badge/-Statsmodels-05122A?style=flat-square&logo=Python&color=353535)](https://www.statsmodels.org/)   [![ARIMA](https://img.shields.io/badge/-ARIMA-05122A?style=flat-square&logo=Python&color=353535)](https://www.statsmodels.org/stable/generated/statsmodels.tsa.arima.model.ARIMA.html)    [![SARIMA](https://img.shields.io/badge/-SARIMA-05122A?style=flat-square&logo=Python&color=353535)](https://www.statsmodels.org/stable/generated/statsmodels.tsa.statespace.sarimax.SARIMAX.html)   [![LSTM](https://img.shields.io/badge/-LSTM-05122A?style=flat-square&logo=Python&color=353535)](https://www.tensorflow.org/api_docs/python/tf/keras/layers/LSTM)|-->
+    <tbody>
+        <tr>
+            <td style="vertical-align:middle;">Machine Learning</td>
+            <td style="vertical-align:middle;"><a href="https://scikit-learn.org/"><img src="https://img.shields.io/badge/-scikit--learn-05122A?style=flat-square&logo=scikit-learn&color=353535" alt="scikit-learn"></a> <a href="https://topepo.github.io/caret/index.html"><img src="https://img.shields.io/badge/-caret-05122A?style=flat-square&logo=R&color=353535" alt="caret"></a></td>
+        </tr>
+        <!-- Continue with similar structure for other rows -->
+        <tr>
+            <td style="vertical-align:middle;">Deep Learning</td>
+            <td style="vertical-align:middle;">... <!-- Add badges for Deep Learning --></td>
+        </tr>
+        <!-- And so on for each row... -->
     </tbody>
 </table>
-
