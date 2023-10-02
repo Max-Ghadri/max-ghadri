@@ -43,15 +43,28 @@ Hello 👋, I'm Mohammad Ghadri! I have hands-on experience with both Machine Le
             </td>
         </tr>
         <tr>
-            <td style="vertical-align: middle;">Python</td>
-            <td style="vertical-align: middle;">
+            <td>Python</td>
+            <td>
                 <a href="https://www.python.org/"><img src="https://img.shields.io/badge/-Python-05122A?style=flat-square&logo=Python&color=353535"></a>
                 <a href="https://pandas.pydata.org/"><img src="https://img.shields.io/badge/-Pandas-05122A?style=flat-square&logo=Pandas&color=353535"></a>
                 <a href="https://numpy.org/"><img src="https://img.shields.io/badge/-NumPy-05122A?style=flat-square&logo=NumPy&color=353535"></a>
-                <!-- ... and the rest of Python logos ... -->
+                <a href="https://www.statsmodels.org/"><img src="https://img.shields.io/badge/-Statsmodels-05122A?style=flat-square&logo=Python&color=353535"></a>
+                <a href="https://docs.python.org/3/library/datetime.html"><img src="https://img.shields.io/badge/-datetime-05122A?style=flat-square&logo=Python&color=353535"></a>
+                <a href="https://ipywidgets.readthedocs.io/"><img src="https://img.shields.io/badge/-ipywidgets-05122A?style=flat-square&logo=Jupyter&color=353535"></a>
+                <a href="https://docs.python.org/3/library/math.html"><img src="https://img.shields.io/badge/-math-05122A?style=flat-square&logo=Python&color=353535"></a>
+                <a href="https://geopandas.org/"><img src="https://img.shields.io/badge/-GeoPandas-05122A?style=flat-square&logo=Python&color=353535"></a>
+                <a href="https://fastparquet.readthedocs.io/"><img src="https://img.shields.io/badge/-fastparquet-05122A?style=flat-square&logo=Python&color=353535"></a>
             </td>
         </tr>
-        <!-- ... The rest of the rows ... -->
+        <tr>
+            <td>R</td>
+            <td>
+                <a href="https://www.r-project.org/"><img src="https://img.shields.io/badge/-R-05122A?style=flat-square&logo=R&color=353535"></a>
+                <a href="https://dplyr.tidyverse.org/"><img src="https://img.shields.io/badge/-dplyr-05122A?style=flat-square&logo=R&color=353535"></a>
+                <a href="https://topepo.github.io/caret/index.html"><img src="https://img.shields.io/badge/-caret-05122A?style=flat-square&logo=R&color=353535"></a>
+                <a href="https://ggplot2.tidyverse.org/"><img src="https://img.shields.io/badge/-ggplot2-05122A?style=flat-square&logo=R&color=353535"></a>
+            </td>
+        </tr>
         <tr>
             <td style="vertical-align: middle;">Time Series Analysis &nbsp;</td>
             <td style="vertical-align: middle;">
