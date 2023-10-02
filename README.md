@@ -4,7 +4,7 @@ Hello 👋, I'm Mohammad Ghadri! I have hands-on experience with both Machine Le
 
 ## Tech Stack 
 
-| Skills | Selected programming languages and Libraries |
+| Skills &nbsp;&nbsp;&nbsp;| Selected programming languages and Libraries |
 | :--- | :--- |
 | Machine Learning | [![scikit-learn](https://img.shields.io/badge/-scikit--learn-05122A?style=flat-square&logo=scikit-learn&color=353535)](https://scikit-learn.org/)  [![caret](https://img.shields.io/badge/-caret-05122A?style=flat-square&logo=R&color=353535)](https://topepo.github.io/caret/index.html)|
 | Deep Learning | [![TensorFlow](https://img.shields.io/badge/-TensorFlow-05122A?style=flat-square&logo=TensorFlow&color=353535)](https://www.tensorflow.org/)  [![PyTorch](https://img.shields.io/badge/-PyTorch-05122A?style=flat-square&logo=PyTorch&color=353535)](https://pytorch.org/)  [![Keras](https://img.shields.io/badge/-Keras-05122A?style=flat-square&logo=Keras&color=353535)](https://keras.io/)  [![caret](https://img.shields.io/badge/-caret-05122A?style=flat-square&logo=R&color=353535)](https://topepo.github.io/caret/index.html)  |
