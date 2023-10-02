@@ -19,22 +19,48 @@ Hello 👋, I'm Mohammad Ghadri! I have hands-on experience with both Machine Le
 
 
 <table style="width: 100%;">
-  <thead>
-    <tr>
-      <th style="text-align: left; vertical-align: middle;">Skills</th>
-      <th style="text-align: left; vertical-align: middle;">Selected programming languages and Libraries</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td style="vertical-align: middle;">Machine Learning</td>
-      <td style="vertical-align: middle;"><a href="https://scikit-learn.org/"><img src="https://img.shields.io/badge/-scikit--learn-05122A?style=flat-square&logo=scikit-learn&color=353535"></a> <a href="https://topepo.github.io/caret/index.html"><img src="https://img.shields.io/badge/-caret-05122A?style=flat-square&logo=R&color=353535"></a></td>
-    </tr>
-    <!-- ... continue with other rows similarly ... -->
-    <tr>
-      <td style="vertical-align: middle;">Time Series Analysis &nbsp;</td>
-      <td style="vertical-align: middle;"><a href="https://www.rdocumentation.org/packages/TSA/versions/1.3"><img src="https://img.shields.io/badge/-TSA-05122A?style=flat-square&logo=R&color=353535"></a> <a href="https://www.statsmodels.org/"><img src="https://img.shields.io/badge/-Statsmodels-05122A?style=flat-square&logo=Python&color=353535"></a> <!-- ... other logos ... --></td>
-    </tr>
-  </tbody>
+    <thead>
+        <tr>
+            <th style="text-align: left; vertical-align: middle;">Skills</th>
+            <th style="text-align: left; vertical-align: middle;">Selected programming languages and Libraries</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td style="vertical-align: middle;">Machine Learning</td>
+            <td style="vertical-align: middle;">
+                <a href="https://scikit-learn.org/"><img src="https://img.shields.io/badge/-scikit--learn-05122A?style=flat-square&logo=scikit-learn&color=353535"></a> 
+                <a href="https://topepo.github.io/caret/index.html"><img src="https://img.shields.io/badge/-caret-05122A?style=flat-square&logo=R&color=353535"></a>
+            </td>
+        </tr>
+        <tr>
+            <td style="vertical-align: middle;">Deep Learning</td>
+            <td style="vertical-align: middle;">
+                <a href="https://www.tensorflow.org/"><img src="https://img.shields.io/badge/-TensorFlow-05122A?style=flat-square&logo=TensorFlow&color=353535"></a> 
+                <a href="https://pytorch.org/"><img src="https://img.shields.io/badge/-PyTorch-05122A?style=flat-square&logo=PyTorch&color=353535"></a> 
+                <a href="https://keras.io/"><img src="https://img.shields.io/badge/-Keras-05122A?style=flat-square&logo=Keras&color=353535"></a> 
+                <a href="https://topepo.github.io/caret/index.html"><img src="https://img.shields.io/badge/-caret-05122A?style=flat-square&logo=R&color=353535"></a>
+            </td>
+        </tr>
+        <tr>
+            <td style="vertical-align: middle;">Python</td>
+            <td style="vertical-align: middle;">
+                <a href="https://www.python.org/"><img src="https://img.shields.io/badge/-Python-05122A?style=flat-square&logo=Python&color=353535"></a>
+                <a href="https://pandas.pydata.org/"><img src="https://img.shields.io/badge/-Pandas-05122A?style=flat-square&logo=Pandas&color=353535"></a>
+                <a href="https://numpy.org/"><img src="https://img.shields.io/badge/-NumPy-05122A?style=flat-square&logo=NumPy&color=353535"></a>
+                <!-- ... and the rest of Python logos ... -->
+            </td>
+        </tr>
+        <!-- ... The rest of the rows ... -->
+        <tr>
+            <td style="vertical-align: middle;">Time Series Analysis &nbsp;</td>
+            <td style="vertical-align: middle;">
+                <a href="https://www.rdocumentation.org/packages/TSA/versions/1.3"><img src="https://img.shields.io/badge/-TSA-05122A?style=flat-square&logo=R&color=353535"></a> 
+                <a href="https://www.statsmodels.org/"><img src="https://img.shields.io/badge/-Statsmodels-05122A?style=flat-square&logo=Python&color=353535"></a>
+                <!-- ... and the rest of Time Series Analysis logos ... -->
+            </td>
+        </tr>
+    </tbody>
 </table>
+
 
