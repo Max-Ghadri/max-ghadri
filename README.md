@@ -31,7 +31,8 @@ td, th {
         </tr>
     </thead>
     <tbody>
-        <Time Series Analysis>
+        <| Time Series Analysis &nbsp;|   [![TSA](https://img.shields.io/badge/-TSA-05122A?style=flat-square&logo=R&color=353535)](https://www.rdocumentation.org/packages/TSA/versions/1.3)   [![Statsmodels](https://img.shields.io/badge/-Statsmodels-05122A?style=flat-square&logo=Python&color=353535)](https://www.statsmodels.org/)   [![ARIMA](https://img.shields.io/badge/-ARIMA-05122A?style=flat-square&logo=Python&color=353535)](https://www.statsmodels.org/stable/generated/statsmodels.tsa.arima.model.ARIMA.html)    [![SARIMA](https://img.shields.io/badge/-SARIMA-05122A?style=flat-square&logo=Python&color=353535)](https://www.statsmodels.org/stable/generated/statsmodels.tsa.statespace.sarimax.SARIMAX.html)   [![LSTM](https://img.shields.io/badge/-LSTM-05122A?style=flat-square&logo=Python&color=353535)](https://www.tensorflow.org/api_docs/python/tf/keras/layers/LSTM)|
+>
     </tbody>
 </table>
 
