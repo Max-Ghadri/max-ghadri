@@ -43,8 +43,8 @@ Hello 👋, I'm Mohammad Ghadri! I have hands-on experience with both Machine Le
             </td>
         </tr>
         <tr>
-            <td>Python</td>
-            <td>
+            <td style="vertical-align: middle;">Python</td>
+            <td style="vertical-align: middle;">
                 <a href="https://www.python.org/"><img src="https://img.shields.io/badge/-Python-05122A?style=flat-square&logo=Python&color=353535"></a>
                 <a href="https://pandas.pydata.org/"><img src="https://img.shields.io/badge/-Pandas-05122A?style=flat-square&logo=Pandas&color=353535"></a>
                 <a href="https://numpy.org/"><img src="https://img.shields.io/badge/-NumPy-05122A?style=flat-square&logo=NumPy&color=353535"></a>
@@ -57,8 +57,8 @@ Hello 👋, I'm Mohammad Ghadri! I have hands-on experience with both Machine Le
             </td>
         </tr>
         <tr>
-            <td>R</td>
-            <td>
+            <td style="vertical-align: middle;">R</td>
+            <td style="vertical-align: middle;">
                 <a href="https://www.r-project.org/"><img src="https://img.shields.io/badge/-R-05122A?style=flat-square&logo=R&color=353535"></a>
                 <a href="https://dplyr.tidyverse.org/"><img src="https://img.shields.io/badge/-dplyr-05122A?style=flat-square&logo=R&color=353535"></a>
                 <a href="https://topepo.github.io/caret/index.html"><img src="https://img.shields.io/badge/-caret-05122A?style=flat-square&logo=R&color=353535"></a>
