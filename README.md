@@ -16,3 +16,56 @@ Hello 👋, I'm Mohammad Ghadri! I have hands-on experience with both Machine Le
 | Git |  [![Git](https://img.shields.io/badge/-Git-05122A?style=flat-square&logo=Git&color=353535)](https://git-scm.com/)   [![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat-square&logo=GitHub&color=353535)](https://github.com/)   [![GitLab](https://img.shields.io/badge/-GitLab-05122A?style=flat-square&logo=GitLab&color=353535)](https://gitlab.com/)  |
 | Image Processing |  [![OpenCV](https://img.shields.io/badge/-OpenCV-05122A?style=flat-square&logo=OpenCV&color=353535)](https://opencv.org/)   [![Pillow](https://img.shields.io/badge/-Pillow-05122A?style=flat-square&logo=Python&color=353535)](https://python-pillow.org/)   [![scikit-image](https://img.shields.io/badge/-scikit--image-05122A?style=flat-square&logo=scikit-learn&color=353535)](https://scikit-image.org/)  |
 | Time Series Analysis &nbsp;|   [![TSA](https://img.shields.io/badge/-TSA-05122A?style=flat-square&logo=R&color=353535)](https://www.rdocumentation.org/packages/TSA/versions/1.3)   [![Statsmodels](https://img.shields.io/badge/-Statsmodels-05122A?style=flat-square&logo=Python&color=353535)](https://www.statsmodels.org/)   [![ARIMA](https://img.shields.io/badge/-ARIMA-05122A?style=flat-square&logo=Python&color=353535)](https://www.statsmodels.org/stable/generated/statsmodels.tsa.arima.model.ARIMA.html)    [![SARIMA](https://img.shields.io/badge/-SARIMA-05122A?style=flat-square&logo=Python&color=353535)](https://www.statsmodels.org/stable/generated/statsmodels.tsa.statespace.sarimax.SARIMAX.html)   [![LSTM](https://img.shields.io/badge/-LSTM-05122A?style=flat-square&logo=Python&color=353535)](https://www.tensorflow.org/api_docs/python/tf/keras/layers/LSTM)|
+
+
+<h2 class="code-line" data-line-start=0 data-line-end=1 ><a id="Tech_Stack_0"></a>Tech Stack</h2>
+<table class="table table-striped table-bordered">
+<thead>
+<tr>
+<th style="text-align:left">Skills</th>
+<th style="text-align:left">Selected programming languages and Libraries</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left">Machine Learning</td>
+<td style="text-align:left"><a href="https://scikit-learn.org/"><img src="https://img.shields.io/badge/-scikit--learn-05122A?style=flat-square&amp;logo=scikit-learn&amp;color=353535" alt="scikit-learn"></a>  <a href="https://topepo.github.io/caret/index.html"><img src="https://img.shields.io/badge/-caret-05122A?style=flat-square&amp;logo=R&amp;color=353535" alt="caret"></a></td>
+</tr>
+<tr>
+<td style="text-align:left">Deep Learning</td>
+<td style="text-align:left"><a href="https://www.tensorflow.org/"><img src="https://img.shields.io/badge/-TensorFlow-05122A?style=flat-square&amp;logo=TensorFlow&amp;color=353535" alt="TensorFlow"></a>  <a href="https://pytorch.org/"><img src="https://img.shields.io/badge/-PyTorch-05122A?style=flat-square&amp;logo=PyTorch&amp;color=353535" alt="PyTorch"></a>  <a href="https://keras.io/"><img src="https://img.shields.io/badge/-Keras-05122A?style=flat-square&amp;logo=Keras&amp;color=353535" alt="Keras"></a>  <a href="https://topepo.github.io/caret/index.html"><img src="https://img.shields.io/badge/-caret-05122A?style=flat-square&amp;logo=R&amp;color=353535" alt="caret"></a></td>
+</tr>
+<tr>
+<td style="text-align:left">Python</td>
+<td style="text-align:left"><a href="https://www.python.org/"><img src="https://img.shields.io/badge/-Python-05122A?style=flat-square&amp;logo=Python&amp;color=353535" alt="Python"></a>  <a href="https://pandas.pydata.org/"><img src="https://img.shields.io/badge/-Pandas-05122A?style=flat-square&amp;logo=Pandas&amp;color=353535" alt="Pandas"></a>  <a href="https://numpy.org/"><img src="https://img.shields.io/badge/-NumPy-05122A?style=flat-square&amp;logo=NumPy&amp;color=353535" alt="NumPy"></a>  <a href="https://www.statsmodels.org/"><img src="https://img.shields.io/badge/-Statsmodels-05122A?style=flat-square&amp;logo=Python&amp;color=353535" alt="Statsmodels"></a>  <a href="https://docs.python.org/3/library/datetime.html"><img src="https://img.shields.io/badge/-datetime-05122A?style=flat-square&amp;logo=Python&amp;color=353535" alt="datetime"></a>  <a href="https://ipywidgets.readthedocs.io/"><img src="https://img.shields.io/badge/-ipywidgets-05122A?style=flat-square&amp;logo=Jupyter&amp;color=353535" alt="ipywidgets"></a>  <a href="https://docs.python.org/3/library/math.html"><img src="https://img.shields.io/badge/-math-05122A?style=flat-square&amp;logo=Python&amp;color=353535" alt="math"></a>  <a href="https://geopandas.org/"><img src="https://img.shields.io/badge/-GeoPandas-05122A?style=flat-square&amp;logo=Python&amp;color=353535" alt="GeoPandas"></a>  <a href="https://fastparquet.readthedocs.io/"><img src="https://img.shields.io/badge/-fastparquet-05122A?style=flat-square&amp;logo=Python&amp;color=353535" alt="fastparquet"></a></td>
+</tr>
+<tr>
+<td style="text-align:left">R</td>
+<td style="text-align:left"><a href="https://www.r-project.org/"><img src="https://img.shields.io/badge/-R-05122A?style=flat-square&amp;logo=R&amp;color=353535" alt="R"></a>   <a href="https://dplyr.tidyverse.org/"><img src="https://img.shields.io/badge/-dplyr-05122A?style=flat-square&amp;logo=R&amp;color=353535" alt="dplyr"></a>   <a href="https://topepo.github.io/caret/index.html"><img src="https://img.shields.io/badge/-caret-05122A?style=flat-square&amp;logo=R&amp;color=353535" alt="caret"></a>   <a href="https://ggplot2.tidyverse.org/"><img src="https://img.shields.io/badge/-ggplot2-05122A?style=flat-square&amp;logo=R&amp;color=353535" alt="ggplot2"></a></td>
+</tr>
+<tr>
+<td style="text-align:left">SQL</td>
+<td style="text-align:left"><a href="https://www.mysql.com/"><img src="https://img.shields.io/badge/-MySQL-05122A?style=flat-square&amp;logo=MySQL&amp;color=353535" alt="MySQL"></a>   <a href="https://www.postgresql.org/"><img src="https://img.shields.io/badge/-PostgreSQL-05122A?style=flat-square&amp;logo=PostgreSQL&amp;color=353535" alt="PostgreSQL"></a></td>
+</tr>
+<tr>
+<td style="text-align:left">Visualization</td>
+<td style="text-align:left"><a href="https://matplotlib.org/"><img src="https://img.shields.io/badge/-Matplotlib-05122A?style=flat-square&amp;logo=Python&amp;color=353535" alt="Matplotlib"></a>   <a href="https://seaborn.pydata.org/"><img src="https://img.shields.io/badge/-Seaborn-05122A?style=flat-square&amp;logo=Python&amp;color=353535" alt="Seaborn"></a></td>
+</tr>
+<tr>
+<td style="text-align:left">Editors</td>
+<td style="text-align:left"><a href="https://colab.research.google.com/"><img src="https://img.shields.io/badge/-Google%20Colab-05122A?style=flat-square&amp;logo=Google%20Colab&amp;color=353535" alt="Google Colab"></a>  <a href="https://jupyter.org/"><img src="https://img.shields.io/badge/-JupyterLab-05122A?style=flat-square&amp;logo=Jupyter&amp;color=353535" alt="JupyterLab"></a>   <a href="https://jupyter.org/"><img src="https://img.shields.io/badge/-Jupyter%20Notebook-05122A?style=flat-square&amp;logo=Jupyter&amp;color=353535" alt="Jupyter Notebook"></a>   <a href="https://code.visualstudio.com/"><img src="https://img.shields.io/badge/-VS%20Code-05122A?style=flat-square&amp;logo=Visual%20Studio%20Code&amp;color=353535" alt="VS Code"></a>   <a href="https://www.jetbrains.com/pycharm/"><img src="https://img.shields.io/badge/-PyCharm-05122A?style=flat-square&amp;logo=PyCharm&amp;color=353535" alt="PyCharm"></a></td>
+</tr>
+<tr>
+<td style="text-align:left">Git</td>
+<td style="text-align:left"><a href="https://git-scm.com/"><img src="https://img.shields.io/badge/-Git-05122A?style=flat-square&amp;logo=Git&amp;color=353535" alt="Git"></a>   <a href="https://github.com/"><img src="https://img.shields.io/badge/-GitHub-05122A?style=flat-square&amp;logo=GitHub&amp;color=353535" alt="GitHub"></a>   <a href="https://gitlab.com/"><img src="https://img.shields.io/badge/-GitLab-05122A?style=flat-square&amp;logo=GitLab&amp;color=353535" alt="GitLab"></a></td>
+</tr>
+<tr>
+<td style="text-align:left">Image Processing</td>
+<td style="text-align:left"><a href="https://opencv.org/"><img src="https://img.shields.io/badge/-OpenCV-05122A?style=flat-square&amp;logo=OpenCV&amp;color=353535" alt="OpenCV"></a>   <a href="https://python-pillow.org/"><img src="https://img.shields.io/badge/-Pillow-05122A?style=flat-square&amp;logo=Python&amp;color=353535" alt="Pillow"></a>   <a href="https://scikit-image.org/"><img src="https://img.shields.io/badge/-scikit--image-05122A?style=flat-square&amp;logo=scikit-learn&amp;color=353535" alt="scikit-image"></a></td>
+</tr>
+<tr>
+<td style="text-align:left">Time Series Analysis  </td>
+<td style="text-align:left"><a href="https://www.rdocumentation.org/packages/TSA/versions/1.3"><img src="https://img.shields.io/badge/-TSA-05122A?style=flat-square&amp;logo=R&amp;color=353535" alt="TSA"></a>   <a href="https://www.statsmodels.org/"><img src="https://img.shields.io/badge/-Statsmodels-05122A?style=flat-square&amp;logo=Python&amp;color=353535" alt="Statsmodels"></a>   <a href="https://www.statsmodels.org/stable/generated/statsmodels.tsa.arima.model.ARIMA.html"><img src="https://img.shields.io/badge/-ARIMA-05122A?style=flat-square&amp;logo=Python&amp;color=353535" alt="ARIMA"></a>    <a href="https://www.statsmodels.org/stable/generated/statsmodels.tsa.statespace.sarimax.SARIMAX.html"><img src="https://img.shields.io/badge/-SARIMA-05122A?style=flat-square&amp;logo=Python&amp;color=353535" alt="SARIMA"></a>   <a href="https://www.tensorflow.org/api_docs/python/tf/keras/layers/LSTM"><img src="https://img.shields.io/badge/-LSTM-05122A?style=flat-square&amp;logo=Python&amp;color=353535" alt="LSTM"></a></td>
+</tr>
+</tbody>
+</table>
