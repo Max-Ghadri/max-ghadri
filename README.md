@@ -1,25 +1,6 @@
 ## Mohammad Ghadri  &nbsp;&nbsp;&nbsp;   [![Personal Website](https://img.shields.io/badge/-mohammad--ghadri.com-0070C0?style=flat&link=https://mohammad-ghadri.com/)](https://mohammad-ghadri.com/)   [![Linkedin](https://img.shields.io/badge/-blue?label=Linkedin&style=social&logo=Linkedin)](https://www.linkedin.com/in/mohammad-ghadri/)   [![GitHub](https://img.shields.io/badge/-green?label=GitHub&style=social&logo=Github)](https://github.com/mohammad-ghadri) [![GitLab](https://img.shields.io/badge/-green?label=GitLab&style=social&logo=Gitlab)](https://gitlab.com/mohammad-ghadri)  [![YouTube](https://img.shields.io/badge/-fff?label=YouTube&style=social&logo=YouTube)](https://www.youtube.com/channel/UCqCILT1uLRrdeCKi1XixjCA)  [![Gmail](https://img.shields.io/badge/-green?label=Gmail&style=social&logo=Gmail)](mailto:mohammadghadri18@gmail.com)   [![Twitter Badge](https://img.shields.io/badge/-1da1f2?label=Twitter&style=social&logo=twitter&link=https://twitter.com/M_Ghadri)](https://twitter.com/M_Ghadri)       
 
-I am on the verge of completing my Master's in Mechanical Engineering, and starting in July 2023, I've been enthusiastically sharing my projects and exercises with individuals eager to delve into Mechanical Engineering and Data Science. 
-
-## My Brief CV   
-
-- **Industry Experience**:   
-Summer 2023 | Mechanical Engineer Intern at [**Airbus**](https://www.airbus.com/en)    
-Summer 2020 | Mechanical Engineer Intern at Pishgam Daghigh Sazan (PDS)    
-Summer 2019 | Mechanical Engineer Intern at Bidboland 1 – gas processing    
-
-- **Solid background in Mechanical Engineering**:   
-Graduated with honor (BSc), ranked as **3 out of 79** Mechanical Engineering students.   
-
-- **Data Science background**:   
-Machine Learning, Deep Learning, Time Series Analysis, Data Mining, Python, R, STAT, MATH.   
- 
-- **Projects**:  
-I did **64** projects for 31 courses using 9 software and 5 coding languages. More details about [**my projects**](https://mohammad-ghadri.com/#Mechanical_Engineering_Projects).   
-
-- **Recommendations**:   
-Please see my related [**recommendations**](https://www.linkedin.com/in/m-ghadri/details/recommendations/?detailScreenTabIndex=0) on Linkedin.   
+Hello 👋, I'm Mohammad Ghadri! Diving deep into the Machine Learning domain, I've passionately employed advanced algorithms to revolutionize traditional approaches. In my distinguished stint at Airbus, I meticulously designed and deployed Machine Learning models, primarily aiming at the A220's buoyancy evaluation. This facilitated an in-depth understanding of its behavior during high-risk events, especially during unforeseen emergency water landings. My journey spans over 60 multifaceted projects, where I've combined my robust programming prowess in Python, R, and MATLAB to generate pragmatic, data-driven outcomes. Merging the realms of engineering and data science, I aspire to craft solutions that make a difference. I'm ardently open to collaboration and driven to apply my distinct skill set to the ever-evolving challenges of the ML/DL domain! 🚀 
 
 ## Tech Stack 
 
