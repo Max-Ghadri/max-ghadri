@@ -19,7 +19,7 @@ Hello 👋, I'm Mohammad Ghadri! I have hands-on experience with both Machine Le
 
 
 <h2 class="code-line" data-line-start=0 data-line-end=1 ><a id="Tech_Stack_0"></a>Tech Stack</h2>
-<table class="table table-striped table-bordered">
+<table class="table table-striped table-bordered", width="80%">
 <thead>
 <tr>
 <th style="text-align:left">Skills</th>
