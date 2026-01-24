@@ -1,6 +1,6 @@
 ## Hi — I’m Max Ghadri
 
-### Mechanical Engineer (MSc) | Energy & Thermal Systems Modeling | ML & Numerical Simulation Methods 
+## Mechanical Engineer (MSc) | Energy & Thermal Systems Modeling | ML & Numerical Simulation Methods 
 
 Mechanical Engineer (MSc) focused on **energy & thermal systems modeling**, **numerical simulation**, and **engineering-grade computational workflows**.
 
