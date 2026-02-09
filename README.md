@@ -1,19 +1,21 @@
 ## Hi — I’m Max Ghadri
 
-## Mechanical Engineer (MSc) | Energy & Thermal Systems Modeling | ML & Numerical Simulation Methods 
+## ML Engineer | Mechanical Engineer (MSc) | Energy & Thermal Systems Modeling | Numerical Simulation & ML Methods
 
-Mechanical Engineer (MSc) focused on **energy & thermal systems modeling**, **numerical simulation**, and **engineering-grade computational workflows**.
+ML Engineer and Mechanical Engineer (MSc) focused on **applied machine learning**, **energy & thermal systems modeling**, **numerical simulation**, and **engineering-grade computational workflows**.
 
-I build **reproducible simulation toolkits** (primarily Fortran/Python) with an emphasis on stability, scalability, and computational efficiency, and I use ML as an enabling layer for analysis and decision support.
+I design and deploy **end-to-end ML pipelines** and deep learning models for real-world AI products, while building **reproducible simulation toolkits** (primarily Fortran/Python) with emphasis on stability, scalability, and computational efficiency.
 
-### What you’ll find here
-- **Second Harmonic Generation (SHG) toolkits**: heat equation, phase mismatch, coupled field–thermal simulations (HPC-oriented)
-- **Numerical modeling projects**: thermal / energy / transport-style problems
-- **ML projects** (supporting role): time series, CV/NLP prototypes, evaluation pipelines
+### What you'll find here
+- **Second Harmonic Generation (SHG) toolkits**: heat equation, phase mismatch, coupled field–thermal simulations (HPC-oriented, FDM-based)
+- **Numerical modeling projects**: thermal / energy / transport-style problems with optimized Fortran/Python implementations
+- **ML projects**: time series, CV/NLP prototypes, evaluation pipelines using PyTorch, TensorFlow, and modern ML frameworks
 
 ### Highlights
-- Open-source SHG modeling across multiple repositories (FDM, MPI, optimized Fortran)
-- Airbus (A220 ditching): simulation-based engineering + ML-assisted analysis
+- **ML Engineer** at stealth startup: designing and deploying production ML pipelines for applied AI projects
+- **Five articles under publication** on Second Harmonic Generation (SHG) and nonlinear optics numerical modeling
+- **Airbus (A220 ditching)**: delivered validated simulation models adopted by engineering teams for safety-critical analysis
+- **Open-source SHG modeling**: multiple repositories featuring FDM solvers, MPI parallelization, and optimized Fortran implementations
 
 
 ---
