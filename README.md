@@ -1,14 +1,14 @@
 ## Hi — I’m Max Ghadri
 
-## ML Engineer | Mechanical Engineer (MSc) 
+## AI Scientist | Mechanical Engineer (MSc) 
 
-ML Engineer and Mechanical Engineer (MSc) focused on **applied machine learning**, **energy & thermal systems modeling**, **numerical simulation**, and **engineering-grade computational workflows**.
+AI Scientist and Mechanical Engineer (MSc) focused on **applied machine learning**, **energy & thermal systems modeling**, **numerical simulation**, and **engineering-grade computational workflows**.
 
 I design and deploy **end-to-end ML pipelines** and deep learning models for real-world AI products, while building **reproducible simulation toolkits** (primarily Fortran/Python) with emphasis on stability, scalability, and computational efficiency.
 
 ### What you'll find here
 - **Second Harmonic Generation (SHG) toolkits**: heat equation, phase mismatch, coupled field–thermal simulations (HPC-oriented, FDM-based)
-- **ML projects**: time series, CV/NLP prototypes, evaluation pipelines using PyTorch, TensorFlow, and modern ML frameworks
+- **ML/DL projects**: time series, CV/NLP prototypes, evaluation pipelines using PyTorch, TensorFlow, and modern ML frameworks
 
 
 ---
