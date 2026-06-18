@@ -1,16 +1,21 @@
-## Hi — I’m Max Ghadri
+## Hi — I’m Max Ghadri, M.Sc. &nbsp;&nbsp;&nbsp;   [![Linkedin](https://img.shields.io/badge/Linkedin-0A66C2?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/max-ghadri/)   [![Google Scholar](https://img.shields.io/badge/-red?label=Google%20Scholar&style=social&logo=Google%20Scholar)](https://scholar.google.com/citations?hl=en&user=Z2eAXH4AAAAJ) 
 
-## AI Scientist | Mechanical Engineer (MSc) 
+## AI Scientist
 
-AI Scientist and Mechanical Engineer (MSc) focused on **applied machine learning**, **energy & thermal systems modeling**, **numerical simulation**, and **engineering-grade computational workflows**.
+AI Scientist and ML Engineer focused on **production GenAI**, **agentic RAG systems**, and **end-to-end ML/DL pipelines**.
 
-I design and deploy **end-to-end ML pipelines** and deep learning models for real-world AI products, while building **reproducible simulation toolkits** (primarily Fortran/Python) with emphasis on stability, scalability, and computational efficiency.
+I fine-tune domain-specific **SLMs**, build **LangGraph** agent workflows with **Knowledge Graphs** and vector retrieval, and ship scalable APIs with **FastAPI**, **Docker**, and **MLflow**—from research prototypes to production-ready systems in healthcare and tech.
 
 ### What you'll find here
-- **Second Harmonic Generation (SHG) toolkits**: heat equation, phase mismatch, coupled field–thermal simulations (HPC-oriented, FDM-based)
-- **ML/DL projects**: time series, CV/NLP prototypes, evaluation pipelines using PyTorch, TensorFlow, and modern ML frameworks
 
+1. [RAG Implementation](https://github.com/RAG-Implementation) Production-style RAG pipelines for document indexing into Qdrant and retrieval benchmarking with dense, BM25, and hybrid search.
+2. [Non Question Proficiency Evaluation](https://github.com/non-question-proficiency-evaluation) Knowledge Tracing models (SAINT+, LBKT, AKT) for estimating learner proficiency from video, reading, and interactive engagement signals.
+3. [Second Harmonic Generation](https://github.com/Second-Harmonic-Generation) Open-source Fortran toolkits for thermal effects, phase mismatch, and coupled field modeling in nonlinear optics (FDM-based).
+4. [SaveBirds.app](https://github.com/SaveBirds-app) Open-source bird atlases for North American species, generated from Breeding Bird Survey (BBS) data.
 
+More public repos on **SLM fine-tuning**, **Agentic AI**, **Knowledge Graphs**, and other production AI projects are coming soon.
+
+<!--
 ---
 
 ## Skills 
@@ -35,5 +40,6 @@ I design and deploy **end-to-end ML pipelines** and deep learning models for rea
 | ArcGIS | [![ArcGIS](https://img.shields.io/badge/-ArcGIS-05122A?style=flat-square&logo=ArcGIS&color=353535)](https://www.arcgis.com/) |
 | Editors |  [![Cursor](https://img.shields.io/badge/-Cursor-05122A?style=flat-square&logo=cursor&color=353535)](https://cursor.sh/)  [![VS Code](https://img.shields.io/badge/-VS%20Code-05122A?style=flat-square&logo=Visual%20Studio%20Code&color=353535)](https://code.visualstudio.com/)   [![Google Colab](https://img.shields.io/badge/-Google%20Colab-05122A?style=flat-square&logo=Google%20Colab&color=353535)](https://colab.research.google.com/)  [![JupyterLab](https://img.shields.io/badge/-JupyterLab-05122A?style=flat-square&logo=Jupyter&color=353535)](https://jupyter.org/)   [![Jupyter Notebook](https://img.shields.io/badge/-Jupyter%20Notebook-05122A?style=flat-square&logo=Jupyter&color=353535)](https://jupyter.org/)   [![PyCharm](https://img.shields.io/badge/-PyCharm-05122A?style=flat-square&logo=PyCharm&color=353535)](https://www.jetbrains.com/pycharm/)  |
 
+-->
 
 <!-- [![Personal Website](https://img.shields.io/badge/-max--ghadri.com-0070C0?style=flat&link=https://max-ghadri.com/)](https://max-ghadri.com/) >
