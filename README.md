@@ -2,9 +2,9 @@
 
 ## AI Scientist
 
-AI Scientist and ML Engineer focused on **production GenAI**, **agentic RAG systems**, and **end-to-end ML/DL pipelines**.
+I’m an AI scientist and former Airbus engineer focused on building reliable, production-ready AI systems.
 
-I fine-tune domain-specific **SLMs**, build **LangGraph** agent workflows with **Knowledge Graphs** and vector retrieval, and ship scalable APIs with **FastAPI**, **Docker**, and **MLflow**—from research prototypes to production-ready systems in healthcare and tech.
+My work covers retrieval-augmented generation (RAG), AI agents, LLM infrastructure, evaluation, knowledge graphs, and applied machine learning. I’m particularly interested in the engineering challenges that appear after the prototype stage—reliability, security, observability, latency, cost, and human oversight.
 
 ### What you'll find here
 
